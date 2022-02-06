@@ -1,1 +1,1 @@
-# The programs I wrote while I was learning Java.
+Programs I wrote while I was learning Java.
